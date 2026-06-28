@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://famousdvk1-collab.github.io/TELUGU-TYPING-WORK/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://famousdvk1-collab.github.io/TELUGU-TYPING-WORK/images/typing-work-1.jpg</image:loc>
+      <image:title>FAMOUS Telugu & English Works - Professional Typing Service</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://famousdvk1-collab.github.io/TELUGU-TYPING-WORK/images/typing-work-2.jpg</image:loc>
+      <image:title>FAMOUS Telugu & English Works - Typing Samples</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://famousdvk1-collab.github.io/TELUGU-TYPING-WORK/#services</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://famousdvk1-collab.github.io/TELUGU-TYPING-WORK/#pricing</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://famousdvk1-collab.github.io/TELUGU-TYPING-WORK/#contact</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
