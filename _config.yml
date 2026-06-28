@@ -1,0 +1,22 @@
+title: DVK Telugu Typing Service
+description: Professional Telugu typing service for advocates, lawyers, and office documents. Fast 1-2 hour delivery.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO Settings
+author: DVK Telugu Typing
+twitter:
+  username: dvk_telugu
+  card: summary
+social:
+  name: DVK Telugu Typing
+  links:
+    - https://wa.me/919959919404
+    - https://t.me/+919****9404
+    - https://mailto:famous.dvk1@gmail.com
+
+# Google Analytics (optional - add your ID later)
+# google_analytics: G-XXXXXXXXXX
